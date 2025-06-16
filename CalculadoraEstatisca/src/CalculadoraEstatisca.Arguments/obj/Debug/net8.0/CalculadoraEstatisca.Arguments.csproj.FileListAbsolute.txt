@@ -1,0 +1,55 @@
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.deps.json
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.AssemblyInfoInputs.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.AssemblyInfo.cs
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.csproj.CoreCompileInputs.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\refint\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\ref\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.deps.json
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.AssemblyInfoInputs.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.AssemblyInfo.cs
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.csproj.CoreCompileInputs.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\refint\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\ref\CalculadoraEstatisca.Arguments.dll
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.deps.json
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.AssemblyInfoInputs.cache
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.AssemblyInfo.cs
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\refint\CalculadoraEstatisca.Arguments.dll
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\ref\CalculadoraEstatisca.Arguments.dll
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.deps.json
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\refint\CalculadoraEstatisca.Arguments.dll
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\ref\CalculadoraEstatisca.Arguments.dll
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.deps.json
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.AssemblyInfoInputs.cache
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.AssemblyInfo.cs
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\refint\CalculadoraEstatisca.Arguments.dll
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Arguments\obj\Debug\net8.0\ref\CalculadoraEstatisca.Arguments.dll

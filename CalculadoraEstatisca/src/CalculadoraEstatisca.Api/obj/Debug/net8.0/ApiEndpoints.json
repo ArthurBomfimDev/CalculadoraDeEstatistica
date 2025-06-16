@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "CalculadoraEstatisca.Api.Controllers.StatisticalCalculatorController",
+    "Method": "CalculeteContinuousData",
+    "RelativePath": "api/StatisticalCalculator/ContinuousData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputValueContinuos",
+        "Type": "CalculadoraEstatisca.Arguments.Class.Base.InputValueContinuous",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CalculadoraEstatisca.Arguments.Class.OutputContinuous",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CalculadoraEstatisca.Api.Controllers.StatisticalCalculatorController",
+    "Method": "CalculeteGrouped",
+    "RelativePath": "api/StatisticalCalculator/Grouped",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputGroupedValue",
+        "Type": "CalculadoraEstatisca.Arguments.Class.Base.InputGroupedValue",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CalculadoraEstatisca.Arguments.Class.Base.OutputNotContinuous",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CalculadoraEstatisca.Api.Controllers.StatisticalCalculatorController",
+    "Method": "CalculeteNotGrouped",
+    "RelativePath": "api/StatisticalCalculator/NotGrouped",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputNotGroupedValue",
+        "Type": "CalculadoraEstatisca.Arguments.Class.Base.InputNotGroupedValue",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CalculadoraEstatisca.Arguments.Class.Base.OutputNotContinuous",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

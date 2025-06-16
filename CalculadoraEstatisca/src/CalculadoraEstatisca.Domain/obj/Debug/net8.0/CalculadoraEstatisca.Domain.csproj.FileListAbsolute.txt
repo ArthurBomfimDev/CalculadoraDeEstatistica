@@ -1,0 +1,75 @@
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.csproj.AssemblyReference.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.AssemblyInfoInputs.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.AssemblyInfo.cs
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.deps.json
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\obj\Debug\net8.0\Calculad.ECD16FEF.Up2Date
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\obj\Debug\net8.0\refint\CalculadoraEstatisca.Domain.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Domain\obj\Debug\net8.0\ref\CalculadoraEstatisca.Domain.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.deps.json
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.csproj.AssemblyReference.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.AssemblyInfoInputs.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.AssemblyInfo.cs
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\Calculad.ECD16FEF.Up2Date
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\refint\CalculadoraEstatisca.Domain.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\ref\CalculadoraEstatisca.Domain.dll
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.deps.json
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.dll
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.pdb
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.csproj.AssemblyReference.cache
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.AssemblyInfoInputs.cache
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.AssemblyInfo.cs
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\Calculad.ECD16FEF.Up2Date
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.dll
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\refint\CalculadoraEstatisca.Domain.dll
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.pdb
+C:\Users\Fatec\Downloads\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\ref\CalculadoraEstatisca.Domain.dll
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.deps.json
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.dll
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.pdb
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\Calculad.ECD16FEF.Up2Date
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.dll
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\refint\CalculadoraEstatisca.Domain.dll
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.pdb
+C:\Users\Arthur\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\ref\CalculadoraEstatisca.Domain.dll
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.deps.json
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.dll
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Domain.pdb
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\bin\Debug\net8.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.csproj.AssemblyReference.cache
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.AssemblyInfoInputs.cache
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.AssemblyInfo.cs
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\Calculad.ECD16FEF.Up2Date
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.dll
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\refint\CalculadoraEstatisca.Domain.dll
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\CalculadoraEstatisca.Domain.pdb
+C:\Users\Fatec\Desktop\CalculadoraEstatisca\src\CalculadoraEstatisca.Domain\obj\Debug\net8.0\ref\CalculadoraEstatisca.Domain.dll

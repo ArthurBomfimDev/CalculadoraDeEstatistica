@@ -1,0 +1,11 @@
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\bin\Debug\net9.0\CalculadoraEstatisca.Arguments.deps.json
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\bin\Debug\net9.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\bin\Debug\net9.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net9.0\CalculadoraEstatisca.Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net9.0\CalculadoraEstatisca.Arguments.AssemblyInfoInputs.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net9.0\CalculadoraEstatisca.Arguments.AssemblyInfo.cs
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net9.0\CalculadoraEstatisca.Arguments.csproj.CoreCompileInputs.cache
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net9.0\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net9.0\refint\CalculadoraEstatisca.Arguments.dll
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net9.0\CalculadoraEstatisca.Arguments.pdb
+C:\Users\arthu_dzh116v\OneDrive\Área de Trabalho\Calculadora de Estatistica\CalculadoraEstatisca.Api\CalculadoraEstatisca.Arguments\obj\Debug\net9.0\ref\CalculadoraEstatisca.Arguments.dll
