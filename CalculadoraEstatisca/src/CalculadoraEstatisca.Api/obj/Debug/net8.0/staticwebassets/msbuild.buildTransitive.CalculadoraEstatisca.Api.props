@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\CalculadoraEstatisca.Api.props" />
-</Project>
